@@ -1,6 +1,10 @@
 #Django
 from django.urls import path
 
+#Local
+from . import views
 
-path(' ', views.index)
+urlpatterns = [
+    path('', views.get_grading_parameters, name='get_grading_parameters'),
+]
 
