@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d535b6e-e37b-437d-8bef-455942b32312" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/madusonovidiusscrumy/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/madusonovidiusscrumy/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/madusonovidiusscrumy/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/madusonovidiusscrumy/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myscrumy/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myscrumy/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +77,8 @@
       <updated>1588798113666</updated>
       <workItem from="1588798134059" duration="6461000" />
       <workItem from="1588888410380" duration="40000" />
-      <workItem from="1588888857641" duration="5842000" />
+      <workItem from="1588888857641" duration="6674000" />
+      <workItem from="1588907699534" duration="711000" />
     </task>
     <servers />
   </component>
@@ -92,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
